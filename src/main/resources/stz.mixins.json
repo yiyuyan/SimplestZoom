@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.stz",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "stz.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "SimplestZoom"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
